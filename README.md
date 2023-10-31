@@ -4,7 +4,7 @@
 
 🔥 About Me:
 - 💻 I'm a passionate software developer with expertise in web and mobile app development.
-- 📱 I specialize in creating cross-platform mobile apps for iOS and Android using technologies like React Native and Flutter.
+- 📱 I specialize in creating web Applications, Management Systems, cross-platform mobile apps for iOS and Android using technologies like, Laravel, Livewire, Fillament, Vuejs, Flutter e.t.c.
 - 👨‍💻 I enjoy coding, problem-solving, and building awesome software solutions.
 - 💡 Open-source contributor and enthusiast, actively supporting and contributing to the community.
 
